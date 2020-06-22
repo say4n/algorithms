@@ -6,31 +6,31 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   id="svg8"
    version="1.1"
-   id="svg8">
+   viewBox="0 0 205.92278 124.95789"
+   height="124.95789mm"
+   width="205.92278mm">
   <defs
      id="defs2">
     <rect
-       x="143.63095"
-       y="130.77976"
-       width="52.916667"
-       height="72.571429"
-       id="rect197" />
+       id="rect197"
+       height="72.571426"
+       width="52.916668"
+       y="130.77975"
+       x="143.63095" />
     <rect
-       x="114.90476"
-       y="130.77976"
-       width="68.791667"
-       height="62.744048"
-       id="rect191" />
+       id="rect191"
+       height="62.744049"
+       width="68.791664"
+       y="130.77975"
+       x="114.90476" />
     <rect
-       x="114.14881"
+       id="rect185"
+       height="46.869049"
+       width="54.42857"
        y="131.53571"
-       width="54.428571"
-       height="46.869048"
-       id="rect185" />
+       x="114.14881" />
   </defs>
   <metadata
      id="metadata5">
@@ -45,57 +45,58 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
-     style="display:inline">
+     transform="translate(-3.0471782,-90.975728)"
+     style="display:inline"
+     id="layer1">
     <g
-       id="g177"
-       transform="matrix(0.13023087,0,0,0.13023087,71.660897,90.975728)">
+       transform="matrix(0.13023087,0,0,0.13023087,71.660897,90.975728)"
+       id="g177">
       <path
-         id="path90"
+         style="fill:#303c42"
          d="M 256,0 C 114.844,0 0,114.844 0,256 0,397.156 114.844,512 256,512 397.156,512 512,397.156 512,256 512,114.844 397.156,0 256,0 Z"
-         style="fill:#303c42" />
+         id="path90" />
       <path
-         id="path92"
+         style="fill:#e53935"
          d="m 256,21.333 c 121.508,0 221.715,92.837 233.483,211.299 -17.362,3.845 -61.466,11.878 -127.904,12.608 -5.484,-53.704 -50.452,-95.908 -105.579,-95.908 -55.127,0 -100.095,42.203 -105.579,95.908 C 83.983,244.51 39.879,236.477 22.517,232.632 34.285,114.171 134.492,21.333 256,21.333 Z"
-         style="fill:#e53935" />
+         id="path92" />
       <circle
-         id="circle94"
+         style="fill:#455a64"
+         cx="256"
+         cy="256"
          r="85.333"
-         cy="256"
-         cx="256"
-         style="fill:#455a64" />
+         id="circle94" />
       <path
-         id="path96"
+         style="fill:#ffffff"
          d="M 256,490.667 C 126.604,490.667 21.333,385.396 21.333,256 c 0,-0.596 0.086,-1.171 0.09,-1.766 20.31,4.324 64.224,11.547 128.97,12.251 5.357,53.837 50.385,96.181 105.607,96.181 55.222,0 100.25,-42.344 105.607,-96.181 64.746,-0.704 108.66,-7.927 128.97,-12.251 0.004,0.595 0.09,1.169 0.09,1.766 0,129.396 -105.271,234.667 -234.667,234.667 z"
-         style="fill:#ffffff" />
+         id="path96" />
       <circle
-         id="circle98"
+         style="fill:#303c42"
+         cx="256"
+         cy="256"
          r="64"
-         cy="256"
-         cx="256"
-         style="fill:#303c42" />
+         id="circle98" />
       <circle
-         id="circle100"
-         r="42.667"
-         cy="256"
+         style="fill:#f2f2f2"
          cx="256"
-         style="fill:#f2f2f2" />
+         cy="256"
+         r="42.667"
+         id="circle100" />
       <path
-         id="path102"
+         style="opacity:0.2;fill:#ffffff;enable-background:new"
          d="m 221.777,268.888 c 0,-23.531 19.135,-42.667 42.667,-42.667 12.215,0 23.169,5.224 30.954,13.475 C 288.98,224.24 273.755,213.333 256,213.333 c -23.531,0 -42.667,19.135 -42.667,42.667 0,11.316 4.501,21.548 11.712,29.191 -2.088,-5.028 -3.268,-10.527 -3.268,-16.303 z"
-         style="opacity:0.2;fill:#ffffff;enable-background:new" />
+         id="path102" />
       <path
-         id="path109"
+         style="fill:url(#SVGID_1_)"
          d="M 256,0 C 114.844,0 0,114.844 0,256 0,397.156 114.844,512 256,512 397.156,512 512,397.156 512,256 512,114.844 397.156,0 256,0 Z"
-         style="fill:url(#SVGID_1_)" />
+         id="path109" />
       <path
-         id="path111"
+         style="opacity:0.1;enable-background:new"
          d="m 444.74,239.997 c 21.049,-2.556 36.18,-5.467 44.743,-7.365 C 483.682,174.237 456.325,122.136 415.586,84.245 436.051,119.059 448,159.449 448,202.667 c 0,12.733 -1.298,25.142 -3.26,37.33 z"
-         style="opacity:0.1;enable-background:new" />
+         id="path111" />
       <path
-         id="path113"
+         style="opacity:0.1;enable-background:new"
          d="m 490.577,254.234 c -10.544,2.245 -27.586,5.257 -50.467,7.747 -26.38,100.717 -117.906,175.352 -226.777,175.352 -61.789,0 -117.908,-24.186 -159.859,-63.361 40.743,69.665 116.161,116.695 202.526,116.695 129.396,0 234.667,-105.271 234.667,-234.667 0,-0.596 -0.086,-1.171 -0.09,-1.766 z"
-         style="opacity:0.1;enable-background:new" />
+         id="path113" />
       <g
          id="g115" />
       <g
@@ -128,42 +129,42 @@
          id="g143" />
     </g>
     <text
-       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect185);fill:#000000;fill-opacity:1;stroke:none;"
        id="text183"
-       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect185);fill:#000000;fill-opacity:1;stroke:none;" />
+       xml:space="preserve" />
     <text
-       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect191);fill:#000000;fill-opacity:1;stroke:none;"
        id="text189"
-       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect191);fill:#000000;fill-opacity:1;stroke:none;" />
+       xml:space="preserve" />
     <text
-       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect197);fill:#000000;fill-opacity:1;stroke:none;"
        id="text195"
-       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect197);fill:#000000;fill-opacity:1;stroke:none;" />
+       xml:space="preserve" />
     <path
-       style="fill:none;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path1036"
        d="m 3.0471782,190.44863 c 81.8929108,-12.18871 148.1690318,0 148.1690318,0 v 0"
-       id="path1036" />
+       style="fill:none;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;letter-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       transform="translate(12.511731)"
        id="text1048"
-       transform="translate(12.511731)"><textPath
-         xlink:href="#path1054"
-         id="textPath1059"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:'Pokemon Solid';-inkscape-font-specification:'Pokemon Solid';fill:#fecb2f;fill-opacity:1;stroke-width:0.264583"
-           id="tspan1046">algorithms</tspan></textPath></text>
+       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;letter-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><textPath
+         id="textPath1059"
+         xlink:href="#path1054"><tspan
+           id="tspan1046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:'Pokemon Solid';-inkscape-font-specification:'Pokemon Solid';fill:#fecb2f;fill-opacity:1;stroke-width:0.264583">algorithms</tspan></textPath></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;letter-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="translate(12.511731)"
        id="text1052"
-       transform="translate(12.511731)"><textPath
-         xlink:href="#path1054"
-         id="textPath1056"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:'Pokemon Hollow';-inkscape-font-specification:'Pokemon Hollow';fill:#3b5ca5;fill-opacity:1;stroke:#3b5ca5;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="tspan1050">algorithms</tspan></textPath></text>
+       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;letter-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       xml:space="preserve"><textPath
+         id="textPath1056"
+         xlink:href="#path1054"><tspan
+           id="tspan1050"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:'Pokemon Hollow';-inkscape-font-specification:'Pokemon Hollow';fill:#3b5ca5;fill-opacity:1;stroke:#3b5ca5;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">algorithms</tspan></textPath></text>
     <path
-       style="fill:none;stroke:none;stroke-width:0.26458300000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path1054"
        d="m 7.8119609,207.79816 c 118.7418091,-23.43588 201.1579891,0 201.1579891,0 v 0"
-       id="path1054" />
+       style="fill:none;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
